@@ -51,4 +51,7 @@ robot_go2_finale/
 
 הניסוי בוצע במסגרת מחקר אינטראקציית אדם-רובוט באוניברסיטת בר-אילן, בהנחיית פרופ' דוד סרנה, ואושר על ידי ועדת האתיקה (IRB) של האוניברסיטה.
 
+## מצגת
+
+המצגת שהוצגה בפגישת הסיכום: [`presentation/robot_go2_presentation.pptx`](presentation/robot_go2_presentation.pptx)
 </div>
