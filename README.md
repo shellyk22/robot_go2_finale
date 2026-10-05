@@ -20,13 +20,13 @@
 **התיעוד המלא: [הוויקי של הפרויקט](https://github.com/shellyk22/robot_go2_finale/wiki).**
 
 ## מבנה הריפו
-
+```
 robot_go2_finale/
 ├── code/          # קוד הבקרה שרץ על הרובוט (Python, unitree_sdk2py)
 ├── analysis/      # קובץ הניתוח הסטטיסטי המלא + מחברת מודל החיזוי (XGBoost)
 ├── images/        # שרטוטי הסבר לוויקי (מעגל ה-Orientation, אינטראקציית אדם-רובוט)
 └── presentation/  # מצגת הפרויקט
-
+```
 ## תכונות מרכזיות
 
 * עקיבה מבוססת UWB עם בקרת PI + Feed-Forward, כולל התאמת מהירות לאדם והתחמקות צידית א-סימטרית.
